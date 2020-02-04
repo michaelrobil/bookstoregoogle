@@ -24,6 +24,6 @@ Application Site: https://safe-caverns-10218.herokuapp.com/
 
 ## Contact
 
-e-mail: michaelrobil@my-dev.online
-LinkedIn: https://www.linkedin.com/in/michael-s-robil-60499869/
+- e-mail: michaelrobil@my-dev.online
+- LinkedIn: https://www.linkedin.com/in/michael-s-robil-60499869/
 
