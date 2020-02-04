@@ -8,19 +8,19 @@ By running search on the home page and clicking on the favorite icon to add to t
 [Michael Robil](https://github.com/michaelrobil)
 
 ## Technology
-HTML5, CSS, Material ui
-Javascript, jQuery, Ajax
-Node, Axios, Express
-Heroku
-Mangodb
-APIs: Google Books
+- HTML5, CSS, Material ui
+- Javascript, jQuery, Ajax
+- Node, Axios, Express
+- Heroku
+- Mangodb
+- APIs: Google Books
 
 ## License
 Unlicense
 
 ## How to use this code
 Visit the app site at Heroku below. If you wish to copy and edit the code, you will need to run npm install to retrieve the necessary dependencies.
-Application Site: https://safe-caverns-10218.herokuapp.com/
+- Application Site: https://safe-caverns-10218.herokuapp.com/
 
 ## Contact
 
