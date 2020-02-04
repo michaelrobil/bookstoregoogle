@@ -19,7 +19,7 @@ By running search on the home page and clicking on the favorite icon to add to t
 Unlicense
 
 ## How to use this code
-Visit the app site at Heroku below. If you wish to copy and edit the code, you will need to run npm install to retrieve the necessary dependencies.
+Visit the app site at Heroku below. If you wish to copy and edit the code, you will need to run ```npm install``` to retrieve the necessary dependencies.
 - Application Site: https://safe-caverns-10218.herokuapp.com/
 
 ## Contact
