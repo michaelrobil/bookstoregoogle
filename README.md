@@ -1,8 +1,11 @@
-# bookstoregoogle
+# Bookstoregoogle
 
 ## About
 This web application is intended as a tool for readers who want to search for books and create his/her own reading list.
 By running search on the home page and clicking on the favorite icon to add to the library, In the library will be the added books with the delete option. 
+
+## Application Screenshot
+![03-book](https://user-images.githubusercontent.com/56613553/74096872-24d4da80-4aca-11ea-99c0-5e7c88e19b8e.png)
 
 ## Contributors
 [Michael Robil](https://github.com/michaelrobil)
